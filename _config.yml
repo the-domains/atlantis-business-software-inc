@@ -1,4 +1,3 @@
-layout_spectrum: 0.9217038678470999
 typography_spectrum: 0.21081497869454324
 color:
   brandStrength: 0.9806637072470039
@@ -6,9 +5,12 @@ color:
   saturation: 0.4729211456142366
   rhythmicContrast: 0.7271914465818554
   brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+layout_spectrum: 0.9217038678470999
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e0fabd5-69da-4450-a6af-ba9a1108687e.png
 name: 'Atlantis Business Software, Inc.'
